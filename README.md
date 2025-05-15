@@ -1,6 +1,6 @@
 # GenAI
 
-# 🧠 TinyGPT: A Character-Level Transformer Language Model
+# 🧠 MiniGPT: A Character-Level Transformer Language Model
 
 This project is a minimalist implementation of a **character-level Transformer language model**, trained on Shakespeare’s works. Inspired by Andrej Karpathy’s `nanoGPT`, the model learns to generate text one character at a time.
 
